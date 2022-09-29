@@ -10,7 +10,7 @@
 
 ## To Run the Application
 1. Download the vue-project.zip file and extract into your folder.
-2. Open the command prompt and navigate to the project folder and use the command <npm run serve>.
+2. Open the command prompt and navigate to the project folder and use the command "npm run serve".
 
 ## To run the Json Server
 1. Download the db.zip file and extract it into your folder.
